@@ -14,7 +14,7 @@ My name is Sabrina Canova. I am a Computer Engineering student from Brazil, curr
 
 ---
 
-### 🛠 Languages & Technologies
+### Languages & Technologies
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
