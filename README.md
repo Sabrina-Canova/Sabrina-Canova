@@ -51,15 +51,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 
 ###  GitHub Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Sabrina-Canova&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-
   <img 
     align="left" 
     alt="Top Languages" 
